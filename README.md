@@ -9,5 +9,6 @@
   Link to the file- https://docs.google.com/spreadsheets/d/1pnVMB4XVVUdgc7FPHkAPzWUvJ8BAsWDM/edit?usp=sharing&ouid=105582742258259064571&rtpof=true&sd=true
   
   
-  ![road accident dashboard](https://user-images.githubusercontent.com/73480837/227628696-7ade0f2f-d6dd-47e9-bfd9-a5f4b63f4589.png)
+ ![Road Accident dashboard](https://user-images.githubusercontent.com/73480837/227629680-a27b7153-346a-4297-90a0-cdac15a7adbb.png)
+
   
