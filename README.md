@@ -1,4 +1,4 @@
-# Road Accidenr Dashboard / Excel-Dashboard
+# Road Accident Dashboard / Excel-Dashboard
 ## Task performed 
   1. Cleaning of data as per requirement
   2. Data Processing by adding some customized columns in data
